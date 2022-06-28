@@ -1,2 +1,3 @@
-# accelerator
+# Accelerator
+
 Summer Accelerator course files
