@@ -1,13 +1,15 @@
-# Accelerator
+# NCSSM Summer Accelerator
 
-Summer Accelerator course files
+##  Intro to Python and Data Science
 
-## Data
+Course files
+
+### Data
 
 - majors.csv
 - ncsu_names.csv
 
-## Assignments
+### Assignments
 
 - assignment00.ipynb [Introduction to Jupyter Notebooks and Markdown]
 - assignment01.ipynb [Introduction to Jupyter Notebooks, Arithmetic, Names and Variables]
