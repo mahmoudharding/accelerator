@@ -2,6 +2,11 @@
 
 Summer Accelerator course files
 
+## Data
+
+- majors.csv
+- ncsu_names.csv
+
 ## Assignments
 
 - assignment00.ipynb [Introduction to Jupyter Notebooks and Markdown]
