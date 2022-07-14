@@ -2,9 +2,9 @@
 
 ##  Intro to Python and Data Science
 
-Course files
+### Course files
 
-### Data
+#### Data
 
 - actors.csv
 - cones.dsv
@@ -22,7 +22,7 @@ Course files
 - top_movis_2017.csv
 - wolrd_population.csv
 
-### Assignments
+#### Assignments
 
 - assignment00.ipynb [Introduction to Jupyter Notebooks and Markdown]
 - assignment01.ipynb [Introduction to Jupyter Notebooks, Arithmetic, Names and Variables]
@@ -33,3 +33,6 @@ Course files
 - assignment06.ipynb [Table Operations]
 - assignment08.ipynb [Exploring Arrays and Tables]
 - assignment09.ipynb [User-Defined Functions and Visualizations]
+
+
+#### Lessons
