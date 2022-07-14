@@ -17,3 +17,6 @@ Course files
 - assignment03.ipynb [Built-in Python Functions]
 - assignment04.ipynb [Text and Arrays]
 - assignment05.ipynb [User-Defined Functions, Control and Iteration]
+- assignment06.ipynb [Table Operations]
+- assignment08.ipynb [Exploring Arrays and Tables]
+- assignment09.ipynb [User-Defined Functions and Visualizations]
